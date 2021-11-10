@@ -1,5 +1,9 @@
 package hu.petrik.Set;
 
-public class Set<T> { 
+import java.util.List;
+
+public class Set<T> {
+    private List<T> elements;
+
 
 }
